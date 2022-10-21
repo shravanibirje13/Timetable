@@ -1,0 +1,161 @@
+body {background-color:rgb(7, 1, 1);
+
+    margin-left: 200px;
+    
+    margin-right: 200px;
+    
+    width: 900px;
+    
+    }
+    
+    
+    
+    /* SETS COLOR, FONT AND ALIGNMENT FOR THE MAIN TITLE */
+    
+    h1   {
+    
+    font-family:"Trebuchet MS",Arial,"sans-serif";
+    
+    font-size:36px;
+    
+    color:Navy;
+    
+    font-style:italic;
+    
+    font-weight:bold;
+    
+    text-align:center;
+    
+    }
+    
+    
+    
+    /* SETS COLOR, FONT AND ALIGNMENT FOR SECTION HEADINGS */
+    
+    h2	{
+    
+    font-family:"Trebuchet MS",Arial,"sans-serif";
+    
+    font-size:17px;
+    
+    color:Navy;
+    
+    font-style:italic;
+    
+    font-weight:bold;
+    
+    text-align:center;
+    
+    }
+    
+    
+    
+    /* FORMATS TEXT IN THE MAIN PARAGRAPHS */
+    
+    p	{
+    
+    font-family:"Trebuchet MS", Arial, "sans-serif";
+    
+    color:#f1f1f1;
+    
+    font-size:13px;
+    
+    font-weight:bold;
+    
+    text-align:left;
+    
+    vertical-align:text-top;
+    
+    }
+    
+    
+    
+    
+    
+    /* FORMATS TEXT IN THE PICTURE CAPTIONS */
+    
+    h3 {
+    
+    font-family:Arial,"sans-serif";
+    
+    color:#14e4d2;
+    
+    font-weight:bold;
+    
+    font-style:italic;
+    
+    text-align:left;
+    
+    font-size:10px;
+    
+    }
+    
+    
+    
+    /* FORMATS BOOKMARK HYPERLINKS */
+    
+    .links2 {list-style-type: none;
+    
+    padding-left: 0;
+    
+    margin-left: 0;
+    
+    display: block;
+    
+    color: #32c9ce;
+    
+    font-family: Arial;
+    
+    font-weight: bold;
+    
+    text-align: left;
+    
+    font-size: 13px;
+    
+    font-style: italic;
+    
+    }
+    
+    /* FORMATS HORIZONTAL LINE UNDER THE TITLE */
+    
+    hr	 {
+    
+    border:0;
+    
+    color:#28cabd;
+    
+    height:2px;
+    
+    width:70%;
+    
+    }
+    
+    
+    
+    /*FORMATS TABLE PROPERTIES */
+    
+    table 	{
+    
+    border-collapse:collapse;
+    
+    border:5px solid rgb(20, 212, 196);
+    
+    width:34%;
+    
+    box-align:right;
+    
+    float:right;
+    
+    font-family:Arial,"sans-serif";
+    
+    color:rgb(252, 252, 252);
+    
+    font-weight:bold;
+    
+    font-style:italic;
+    
+    text-align:left;
+    
+    font-size:11px;
+    
+    }
